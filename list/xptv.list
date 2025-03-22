@@ -1,0 +1,109 @@
+# NAME: xptv
+# AUTHOR: liubin12
+# REPO: https://github.com/liubin12/clash-binbin
+# UPDATED: 2025-03-22 20:00:00
+# DOMAIN: 24
+# DOMAIN-KEYWORD: 8
+# DOMAIN-SUFFIX: 58
+# IP-ASN: 0
+# IP-CIDR: 10
+# IP-CIDR6: 0
+# PROCESS-NAME: 0
+# TOTAL: 100
+
+DOMAIN,agedm.org
+DOMAIN,anime.girigirilove.com
+DOMAIN,love.girigirilove.com
+DOMAIN,m3u8.girigirilove.com
+DOMAIN,infuseku.xyz
+DOMAIN,gateway.icloud.com
+DOMAIN,metrics.icloud.com
+DOMAIN,dandanplay.net
+DOMAIN,mihdr.top
+DOMAIN,www.leijing.xyz
+DOMAIN,xzys.fun
+DOMAIN,www.nanf.cc
+DOMAIN,yydsys.top
+DOMAIN,woog.nxog.eu.org
+DOMAIN,yunpan8.cc
+DOMAIN,slink.ltd
+DOMAIN,lemonlive.deno.dev
+DOMAIN,api.9cec79d.com
+DOMAIN,wjm.kemfsj.com
+DOMAIN,www.4k-av.com
+DOMAIN,i0.hdslb.com
+DOMAIN,www.libvio.cc
+DOMAIN,image.zhihuishu.com
+DOMAIN,presale.111.com.cn
+
+DOMAIN-KEYWORD,hkybqufgh
+DOMAIN-KEYWORD,q19jcg
+DOMAIN-KEYWORD,prime-video
+DOMAIN-KEYWORD,dandanplay
+DOMAIN-KEYWORD,infuseku
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,ysdqjs
+DOMAIN-KEYWORD,telegram
+
+DOMAIN-SUFFIX,www.hkybqufgh.com
+DOMAIN-SUFFIX,ppvod02.q19jcg.com
+DOMAIN-SUFFIX,trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,voicehub.top
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,ctyunxs.cn
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,xiaoya.pro
+DOMAIN-SUFFIX,mogg.top
+DOMAIN-SUFFIX,wogg.net
+DOMAIN-SUFFIX,duopan.fun
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,msstatic.com
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,fanchenstatic.com
+DOMAIN-SUFFIX,bsgslb.cn
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,bdxiguastatic.com
+DOMAIN-SUFFIX,zshtys888.com
+DOMAIN-SUFFIX,mcloud.139.com
+DOMAIN-SUFFIX,libvio.cloud
+DOMAIN-SUFFIX,anfuns.org
+DOMAIN-SUFFIX,bytegiftia.top
+DOMAIN-SUFFIX,lenovo.com.cn
+DOMAIN-SUFFIX,video.iqiyi.com
+DOMAIN-SUFFIX,qitu-zuida.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,1ljx.com
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,novipnoad.net
+DOMAIN-SUFFIX,thehanju.com
+DOMAIN-SUFFIX,vvddoo.com
+DOMAIN-SUFFIX,op.ysdqjs.cn
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,imgsrc.baidu.com
+DOMAIN-SUFFIX,newljlj.com
+DOMAIN-SUFFIX,qnqcdn.net
+DOMAIN-SUFFIX,xingya.com.cn
+
+IP-CIDR,43.142.232.217/32,no-resolve
+IP-CIDR,110.41.171.181/32,no-resolve
+IP-CIDR,49.235.143.104/32,no-resolve
+IP-CIDR,218.22.23.189/32,no-resolve
+IP-CIDR,117.68.35.135/32,no-resolve
+IP-CIDR,218.22.23.229/32,no-resolve
+IP-CIDR,117.68.35.139/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
