@@ -11,30 +11,30 @@
 # PROCESS-NAME: 0
 # TOTAL: 100
 
-DOMAIN,agedm.org
-DOMAIN,anime.girigirilove.com
-DOMAIN,love.girigirilove.com
-DOMAIN,m3u8.girigirilove.com
-DOMAIN,infuseku.xyz
-DOMAIN,gateway.icloud.com
-DOMAIN,metrics.icloud.com
-DOMAIN,dandanplay.net
-DOMAIN,mihdr.top
-DOMAIN,www.leijing.xyz
-DOMAIN,xzys.fun
-DOMAIN,www.nanf.cc
-DOMAIN,yydsys.top
-DOMAIN,woog.nxog.eu.org
-DOMAIN,yunpan8.cc
-DOMAIN,slink.ltd
-DOMAIN,lemonlive.deno.dev
-DOMAIN,api.9cec79d.com
-DOMAIN,wjm.kemfsj.com
-DOMAIN,www.4k-av.com
-DOMAIN,i0.hdslb.com
-DOMAIN,www.libvio.cc
-DOMAIN,image.zhihuishu.com
-DOMAIN,presale.111.com.cn
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,anime.girigirilove.com
+DOMAIN-SUFFIX,love.girigirilove.com
+DOMAIN-SUFFIX,m3u8.girigirilove.com
+DOMAIN-SUFFIX,infuseku.xyz
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,metrics.icloud.com
+DOMAIN-SUFFIX,dandanplay.net
+DOMAIN-SUFFIX,mihdr.top
+DOMAIN-SUFFIX,www.leijing.xyz
+DOMAIN-SUFFIX,xzys.fun
+DOMAIN-SUFFIX,www.nanf.cc
+DOMAIN-SUFFIX,yydsys.top
+DOMAIN-SUFFIX,woog.nxog.eu.org
+DOMAIN-SUFFIX,yunpan8.cc
+DOMAIN-SUFFIX,slink.ltd
+DOMAIN-SUFFIX,lemonlive.deno.dev
+DOMAIN-SUFFIX,api.9cec79d.com
+DOMAIN-SUFFIX,wjm.kemfsj.com
+DOMAIN-SUFFIX,www.4k-av.com
+DOMAIN-SUFFIX,i0.hdslb.com
+DOMAIN-SUFFIX,www.libvio.cc
+DOMAIN-SUFFIX,image.zhihuishu.com
+DOMAIN-SUFFIX,presale.111.com.cn
 
 DOMAIN-KEYWORD,hkybqufgh
 DOMAIN-KEYWORD,q19jcg
