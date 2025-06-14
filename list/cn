@@ -1,0 +1,18 @@
+# NAME: cn
+# AUTHOR: liubin12
+# REPO: https://github.com/liubin12/clash-binbin
+# UPDATED: 2025-03-22 20:00:00
+# DOMAIN: 24
+# DOMAIN-KEYWORD: 8
+# DOMAIN-SUFFIX: 58
+# IP-ASN: 0
+# IP-CIDR: 10
+# IP-CIDR6: 0
+# PROCESS-NAME: 0
+# TOTAL: 100
+
+DOMAIN-SUFFIX,ipip.net
+
+DOMAIN-KEYWORD,myip.ipip
+
+DOMAIN-SUFFIX,myip.ipip.net
