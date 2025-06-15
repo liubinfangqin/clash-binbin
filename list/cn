@@ -11,8 +11,9 @@
 # PROCESS-NAME: 0
 # TOTAL: 100
 
-DOMAIN-SUFFIX,ipip.net
+# DOMAIN-SUFFIX,ipip.net
 
-DOMAIN-KEYWORD,myip.ipip
+# DOMAIN-KEYWORD,myip.ipip
 
 DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,r.inews.qq.com
