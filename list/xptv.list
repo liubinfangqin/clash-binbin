@@ -11,7 +11,7 @@
 # PROCESS-NAME: 0
 # TOTAL: 100
 
-DOMAIN-SUFFIX,freetv.top
+# DOMAIN-SUFFIX,freetv.top
 DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,anime.girigirilove.com
 DOMAIN-SUFFIX,love.girigirilove.com
@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,www.libvio.cc
 DOMAIN-SUFFIX,image.zhihuishu.com
 DOMAIN-SUFFIX,presale.111.com.cn
 
-DOMAIN-KEYWORD,bptv.freetv
+# DOMAIN-KEYWORD,bptv.freetv
 DOMAIN-KEYWORD,hkybqufgh
 DOMAIN-KEYWORD,q19jcg
 DOMAIN-KEYWORD,prime-video
@@ -47,7 +47,7 @@ DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,ysdqjs
 DOMAIN-KEYWORD,telegram
 
-DOMAIN-SUFFIX,bptv.freetv.top
+# DOMAIN-SUFFIX,bptv.freetv.top
 DOMAIN-SUFFIX,www.hkybqufgh.com
 DOMAIN-SUFFIX,ppvod02.q19jcg.com
 DOMAIN-SUFFIX,trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
